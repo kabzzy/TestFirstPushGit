@@ -11,6 +11,8 @@ namespace TestFirstPushGit
         static void Main(string[] args)
         {
             Console.WriteLine("Test Git Push FIrst App");
+            Console.ReadLine();
+
         }
     }
 }
